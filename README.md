@@ -1,25 +1,16 @@
 
 <div align="center">
 
-  ### hello&emsp;你好&emsp;halo&emsp;أهلا&emsp;привет&emsp;ਸਤ ਸ੍ਰੀ ਅਕਾਲ&emsp;olá&emsp;こんにちは
-  #### ciao&emsp;नमस्ते&emsp;bonjour&emsp;ہیلو&emsp;hola&emsp;হ্যালো&emsp;guten tag  
+  ### hello&emsp;你好&emsp;halo&emsp;أهلا&emsp;привет&emsp;नमस्ते&emsp;olá&emsp;こんにちは
+  #### ciao&emsp;হ্যালো&emsp;bonjour&emsp;ہیلو&emsp;hola&emsp;ਸਤ ਸ੍ਰੀ ਅਕਾਲ&emsp;guten tag 
+
   <br>
+
   <kbd>
     <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hey, there!" style="width: 500px;"/>
   </kbd>
+
+  <br>
+
 </div>
 
-<!--
-**terran6/terran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
