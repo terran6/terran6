@@ -2,10 +2,10 @@
 <div align="center">
 
   ### hello&emsp;你好&emsp;halo&emsp;أهلا&emsp;привет&emsp;ਸਤ ਸ੍ਰੀ ਅਕਾਲ&emsp;olá&emsp;こんにちは
-  #### ciao&emsp;नमस्ते&emsp;bonjour&emsp;ہیلو&emsp;hola&emsp;হ্যালো&emsp;guten tag
-
+  #### ciao&emsp;नमस्ते&emsp;bonjour&emsp;ہیلو&emsp;hola&emsp;হ্যালো&emsp;guten tag  
+  <br>
   <kbd>
-    <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hey, there!" style="width: 400px;"/>
+    <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hey, there!" style="width: 500px;"/>
   </kbd>
 </div>
 
