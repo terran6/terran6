@@ -1,4 +1,8 @@
-![Hey, there!](https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif)
+<div align="center">
+  <kbd>
+    <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hey, there!" style="width: 400px;"/>
+  </kbd>
+</div>
 
 <!--
 **terran6/terran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
