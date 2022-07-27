@@ -7,7 +7,7 @@
   <br>
 
   <kbd>
-    <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hey, there!" style="width: 500px;"/>
+    <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hey, there!" style="width: 460px;"/>
   </kbd>
 
   <br>
