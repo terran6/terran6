@@ -10,7 +10,7 @@
   <hr>
 
   ### hello&emsp;你好&emsp;halo&emsp;أهلا&emsp;xin chào&emsp;नमस्ते&emsp;olá&emsp;こんにちは&emsp;ciao
-  #### হ্যালো&emsp;bonjour&emsp;안녕하세요&emsp;hola&emsp;ਸਤ ਸ੍ਰੀ ਅਕਾਲ&emsp;привет&emsp;ہیلو&emsp;guten tag 
+  #### হ্যালো&emsp;bonjour&emsp;안녕하세요&emsp;hola&emsp;ਸਤ ਸ੍ਰੀ ਅਕਾਲ&emsp;habari&emsp;ہیلو&emsp;guten tag 
 
   <hr>
 
