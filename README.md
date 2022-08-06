@@ -17,8 +17,6 @@
   <kbd>
     <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hi!" style="width: 480px;"/>
   </kbd>
-  
-  <hr>
 
 </div>
 
