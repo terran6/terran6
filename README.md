@@ -1,12 +1,12 @@
 
 <div align="center">
-
+<!---
   <hr>
 
   <kbd>
     <img src="https://pdxopen.tech/wp-content/uploads/2020/10/hello_world.gif" alt="Hello World" style="width: 300px;"/>
   </kbd>
-  
+-->  
   <hr>
 
   ### hello&emsp;你好&emsp;halo&emsp;أهلا&emsp;xin chào&emsp;नमस्ते&emsp;olá&emsp;こんにちは&emsp;ciao
