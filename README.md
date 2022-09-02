@@ -15,7 +15,9 @@
   <hr>
 
   <kbd>
-    <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hi!" style="width: 480px;"/>
+    <a href="https://www.linkedin.com/in/manuel-collazo/">
+      <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hi!" style="width: 480px;"/>
+    </a>
   </kbd>
 
 </div>
