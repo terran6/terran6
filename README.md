@@ -15,7 +15,7 @@
   <hr>
 
   <kbd>
-    <a href="https://www.linkedin.com/in/manuel-collazo/">
+    <a href="https://www.mapcrunch.com/">
       <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hi!" style="width: 480px;"/>
     </a>
   </kbd>
